@@ -10,6 +10,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachilak2001&label=Profile%20views&color=0e75b6&style=flat" alt="sachilak2001" /> </p>
 
+## 🐍 A Snake Eating My Contributions Graph
+![Snake animation](https://github.com/SachiLak2001/SachiLak2001/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachilak2001" alt="sachilak2001" /></a> </p>
 
 - 💬 Ask me about **java,python**
